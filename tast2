@@ -1,0 +1,3 @@
+name1 = input("what is your first name: ")
+name2 = input("what is your last name: ")
+print("hello ",name1 ,name2 ,"welcome" )
